@@ -2,7 +2,7 @@
 > This repository is a sample project intended to demonstrate my coding skills. It is not the primary repository used by the team, which includes multiple branches and commits. For security reasons, sensitive information such as API keys and environment files has been excluded. This project is shared with permission to showcase my work. ✅
 
 
-# HRM(Human Resource Management) back office:
+# HRM (Human Resource Management) back office:
 
 This project is a Human Resource Management (HRM) back office application designed to streamline and automate HR processes. It provides functionalities such as employee record management, payroll processing, attendance tracking, and performance evaluation. The app aims to enhance efficiency and accuracy in HR operations, offering a user-friendly interface for HR professionals to manage their tasks effectively. :office:
 
@@ -36,7 +36,7 @@ It covers the entire hiring process, from being a candidate to an employee, and 
 
 ## Table of contents
 
-- [HRM(Human Resource Management) back office](#hrm-human-resource-management-back-office:)
+- [HRM(Human Resource Management) back office](#hrm-human-resource-management-back-office)
   * [Features](#features)
   * [Table of contents](#table-of-contents)
   * [Screenshots](#screenshots)
