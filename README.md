@@ -36,7 +36,7 @@ It covers the entire hiring process, from being a candidate to an employee, and 
 
 ## Table of contents
 
-- [HRM(Human Resource Management) back office](#HRM(Human-Resource-Management)-back-office)
+- [HRM(Human Resource Management) back office](#hrm-human-resource-management-back-office)
   * [Features](#features)
   * [Table of contents](#table-of-contents)
   * [Screenshots](#screenshots)
