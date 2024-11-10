@@ -49,11 +49,33 @@ It covers the entire hiring process, from being a candidate to an employee, and 
 
 ## Screenshots
 
-#### Login:
+#### Login request:
 
   <div align="center">
 
 ![App Screenshot](https://github.com/user-attachments/assets/40098bfb-12e9-4f02-ae95-84557f5e7d33)
+
+  </div>
+  
+  #
+
+  #### Login with activation code:
+
+  <div align="center">
+
+![App Screenshot](https://github.com/user-attachments/assets/07ee8a6e-7b33-48b7-ad02-c6006dee1a53)
+
+
+  </div>
+  
+  #
+
+  #### Login with password:
+
+  <div align="center">
+
+![App Screenshot](https://github.com/user-attachments/assets/6bf163bd-adb2-4f61-9d0d-784c1d26f2d4)
+
 
   </div>
   
